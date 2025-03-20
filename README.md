@@ -1,1 +1,1 @@
-# Seller_Foreteller
+# Seller_Foreteller - prediction model
